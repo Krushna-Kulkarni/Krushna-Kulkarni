@@ -17,6 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.linkedin.com/in/krushna-kulkarni/" target="blank"><img align="center" src="https://github.com/Krushna-Kulkarni/icons/blob/main/bxl-linkedin.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://twitter.com/krushnatweets" target="blank"><img align="center" src="https://github.com/Krushna-Kulkarni/icons/blob/main/twitter.svg" alt="krushnatweets" height="30" width="40" /></a>
 <a href="https://instagram.com/krushna.18" target="blank"><img align="center" src="https://github.com/Krushna-Kulkarni/icons/blob/main/instagram.svg" alt="krushna.18" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/krushna_18" target="blank"><img align="center" src="https://github.com/Krushna-Kulkarni/icons/blob/main/codechef.svg" alt="krushna_18" height="30" width="40" /></a>
