@@ -25,7 +25,6 @@
 <h3 align="left">My Coding Profiles:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/krushna_18" target="blank"><img align="center" src="https://github.com/Krushna-Kulkarni/icons/blob/main/codechef.svg" alt="krushna_18" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/krushna_18" target="blank"><img align="center" src="https://github.com/Krushna-Kulkarni/icons/blob/main/hackerrank.svg" alt="krushna_18" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/krushna_18" target="blank"><img align="center" src="https://github.com/Krushna-Kulkarni/icons/blob/main/codeforces.svg" alt="krushna_18" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/krushna_18" target="blank"><img align="center" src="https://github.com/Krushna-Kulkarni/icons/blob/main/leetcode.svg" alt="krushna_18" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/krushna_18/profile" target="blank"><img align="center" src="https://github.com/Krushna-Kulkarni/icons/blob/main/geeksforgeeks.svg" alt="krushna_18/profile" height="30" width="40" /></a>
