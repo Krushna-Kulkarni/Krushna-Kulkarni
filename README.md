@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data structures and Algorithms, Competitive Coding and Web Development**
 
-- 📫 How to reach me **krushnakulkarni17@gmail.com**
+- 📫 Reach me at **krushnakulkarni17@gmail.com**
 
 - 📄 Know about my experiences [https://tinyurl.com/krushnakulkarni-cv](https://tinyurl.com/krushnakulkarni-cv)
 
