@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krushna Kulkarni</h1>
-<h3 align="center">A passionate programmer from India</h3>
+<h3 align="center">I build things for the web.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krushna-kulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="krushna-kulkarni" /> </p>
 
