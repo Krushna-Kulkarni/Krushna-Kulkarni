@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 💬 Ask me about **Data structures and Algorithms, Competitive Coding and Web Development**
+- 💬 Ask me about **Web Development and related technologies**
 
 - 📫 Reach me at **krushnakulkarni17@gmail.com**
 
