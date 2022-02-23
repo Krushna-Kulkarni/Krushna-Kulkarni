@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krushna-kulkarni&label=Profile%20views&color=0e75b6&style=flat" alt="krushna-kulkarni" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **DSA and MERN Stack Development**
 
-- 💬 Ask me about **Web Development and related technologies**
+- 💬 Ask me about **DSA, Web Development and related technologies**
 
 - 📫 Reach me at **krushnakulkarni17@gmail.com**
 
