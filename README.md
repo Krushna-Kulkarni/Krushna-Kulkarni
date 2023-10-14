@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **krushnakulkarni17@gmail.com**
 
-<!-- - 📄 Know about my experiences [https://tinyurl.com/krushnakulkarni-cv](https://tinyurl.com/krushnakulkarni-cv) -->
+- 📄 Know about my experiences [Resume](https://tinyurl.com/kkfed) 
 
 - ⚡ Fun fact **Python was developed before java.**
 
