@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [Resume](https://tinyurl.com/kkfed) 
 
-- ⚡ Fun fact **Python was developed before java.**
+- ⚡ Fun fact **The term "bug fix" in computer programming originated when a moth caused a malfunction in an early computer, and engineers found and removed it from a relay.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
