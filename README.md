@@ -9,7 +9,7 @@
 
 - 📫 Reach me at **krushnakulkarni17@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://tinyurl.com/kkfed) 
+- 📄 Know about my experiences [Resume](https://tinyurl.com/kkfedv2) 
 
 - ⚡ Fun fact **The term "bug fix" in computer programming originated when a moth caused a malfunction in an early computer, and engineers found and removed it from a relay.**
 
